@@ -1,4 +1,4 @@
 category: Gnome X11
-requires: cygwin GConf2 gtk2-x11-runtime libglade2 libgnome2 libgnomeui2 xorg-x11-bin-dlls xorg-x11-base
+requires: GConf2 gtk2-x11-runtime libglade2 libgnome2 libgnomeui2 xorg-x11-bin-dlls xorg-x11-base
 sdesc: "GNOME mouse cursor theme selector"
 ldesc: "GNOME mouse cursor theme selector"
